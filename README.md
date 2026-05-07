@@ -1,25 +1,17 @@
-# ForecastIQ — Production-Ready Time Series Forecasting System
 
-## Project Documentation
-
-**Name:** B. Venkata Divya  
-**Date:** 2026-05-07  
 
 **Tech Stack:** FastAPI (Python), pmdarima (SARIMA), Prophet, XGBoost, PyTorch (LSTM), Next.js (UI), Joblib (artifacts)
 
 ---
 
-# 1. Cover Page
+
 
 ## Project Name
 **ForecastIQ**
 
-## Tagline
-**Production-Ready Time Series Forecasting System (Per-State Model Selection + Forecast API)**
 
----
 
-# 2. Executive Summary
+
 
 ## Problem
 
@@ -48,7 +40,7 @@ Best model is automatically selected per state using MAPE across four algorithms
 
 ---
 
-# 3. System Architecture
+# System Architecture
 
 ```text
 Excel Dataset
