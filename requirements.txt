@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+pandas
+numpy
+scikit-learn
+openpyxl
+pmdarima
+prophet
+xgboost
+torch
+holidays
+joblib
+pydantic
+pydantic-settings
+python-multipart
